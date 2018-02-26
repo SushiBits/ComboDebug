@@ -12,7 +12,7 @@ Cortex-M processors, based on the [STM32F042K6][42K] microcontroller.
 This adapter provides a 1.27mm 10-pin modified Cortex Debug Connector with two
 of the original ground lines replaced with a serial port.
 
-
+![Pinout diagram](doc/pinout.png)
 
 It also provides an external target reset button, and an offline programming
 trigger button for [DAP42][DAP42]
