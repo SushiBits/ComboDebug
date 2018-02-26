@@ -14,6 +14,9 @@ of the original ground lines replaced with a serial port.
 
 ![Pinout diagram](doc/pinout.png)
 
+The serial port can be handled through the DAP42 host interface, or through an
+onboard USB to Serial adapter.
+
 It also provides an external target reset button, and an offline programming
 trigger button for [DAP42][DAP42]
 
